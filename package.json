@@ -1,6 +1,6 @@
 {
   "name": "discord-bot-maker-bot",
-  "author": "Robert Borghese",
+  "author": "PalNet",
   "main": "bot.js",
   "version": "2.1.6",
   "dependencies": {
